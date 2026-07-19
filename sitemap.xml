@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- URL provisoire : remplacer [URL DU SITE] par l’adresse finale du site -->
+  <url>
+    <loc>https://[URL DU SITE]/index.html</loc>
+  </url>
+  <url>
+    <loc>https://[URL DU SITE]/legal.html</loc>
+  </url>
+  <url>
+    <loc>https://[URL DU SITE]/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://[URL DU SITE]/404.html</loc>
+  </url>
+</urlset>

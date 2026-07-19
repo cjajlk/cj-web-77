@@ -1,0 +1,40 @@
+/* reset.css - minimal reset for neutral layout */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  line-height: 1.5;
+  text-size-adjust: 100%;
+}
+body {
+  min-height: 100vh;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #050816;
+  color: #F4F7FF;
+}
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+button, input, select, textarea {
+  font: inherit;
+}
+button {
+  border: none;
+  background: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+ul, ol {
+  list-style: none;
+}
+input, button, textarea, select {
+  outline-offset: 4px;
+}
+::selection {
+  background: rgba(36, 123, 255, 0.3);
+}
