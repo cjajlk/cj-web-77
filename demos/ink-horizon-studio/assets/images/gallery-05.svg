@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Exemple de tatouage fine line">
+  <rect width="600" height="450" fill="#121212"/>
+  <rect x="84" y="92" width="432" height="266" rx="28" fill="#161616" stroke="#f0ebe2" stroke-opacity="0.18"/>
+  <path d="M196 314c44-94 126-142 208-132" stroke="#f0ebe2" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M220 248c28-42 68-62 110-62" stroke="#b49a68" stroke-width="6" fill="none" stroke-linecap="round"/>
+</svg>

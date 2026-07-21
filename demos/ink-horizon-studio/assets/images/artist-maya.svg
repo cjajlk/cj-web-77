@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Portrait fictif de Maya Solis">
+  <rect width="600" height="450" fill="#151515"/>
+  <circle cx="300" cy="220" r="120" fill="#2b2b2b"/>
+  <path d="M190 360c28-96 176-98 220 0" fill="#6f1d2d" opacity="0.8"/>
+  <circle cx="250" cy="208" r="12" fill="#f0ebe2"/>
+  <circle cx="351" cy="208" r="12" fill="#f0ebe2"/>
+  <path d="M250 278c24 18 76 18 100 0" stroke="#f0ebe2" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M182 170c26-82 214-68 226 8" stroke="#b49a68" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

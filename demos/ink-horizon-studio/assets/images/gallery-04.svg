@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Exemple de tatouage japonais">
+  <rect width="600" height="450" fill="#121212"/>
+  <rect x="84" y="92" width="432" height="266" rx="28" fill="#1b1b1b" stroke="#b49a68" stroke-opacity="0.24"/>
+  <path d="M198 302c46-124 160-164 246-128" stroke="#f0ebe2" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M210 256c40-34 96-46 136-18" stroke="#9f3347" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

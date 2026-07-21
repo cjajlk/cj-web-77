@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Exemple de tatouage réaliste">
+  <rect width="600" height="450" fill="#121212"/>
+  <rect x="90" y="92" width="420" height="266" rx="28" fill="#202020" stroke="#b49a68" stroke-opacity="0.3"/>
+  <path d="M220 318c24-90 118-138 192-120" stroke="#f0ebe2" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <circle cx="228" cy="210" r="84" fill="#6f1d2d" opacity="0.8"/>
+</svg>

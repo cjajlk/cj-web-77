@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Exemple de tatouage floral">
+  <rect width="600" height="450" fill="#121212"/>
+  <rect x="84" y="92" width="432" height="266" rx="28" fill="#1f1f1f" stroke="#b49a68" stroke-opacity="0.24"/>
+  <path d="M310 180c-28 22-46 54-40 104 10 86 102 88 126 16" stroke="#9f3347" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M258 158c-36-16-62-2-84 28" stroke="#f0ebe2" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

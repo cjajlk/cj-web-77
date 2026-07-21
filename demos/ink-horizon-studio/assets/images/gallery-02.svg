@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Exemple de tatouage blackwork">
+  <rect width="600" height="450" fill="#121212"/>
+  <rect x="84" y="92" width="432" height="266" rx="28" fill="#1b1b1b" stroke="#9f3347" stroke-opacity="0.3"/>
+  <path d="M180 320c48-94 186-114 244-20" stroke="#f0ebe2" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M188 260c38-70 116-92 180-62" stroke="#b49a68" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>
