@@ -812,6 +812,49 @@ section p {
   );
 }
 
+.atelier-nova-preview {
+  position: relative;
+  overflow: hidden;
+}
+
+.atelier-nova-preview img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 240px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.atelier-nova-preview::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(
+    180deg,
+    rgba(39, 43, 41, 0.02),
+    rgba(39, 43, 41, 0.28)
+  );
+}
+
+.preview-label {
+  position: absolute;
+  z-index: 1;
+  left: 1rem;
+  bottom: 1rem;
+  padding: 0.55rem 0.9rem;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 0.9rem;
+  line-height: 1.3;
+}
+
+    rgba(39, 43, 41, 0.28)
+  );
+}
+
 .preview-stroke {
   bottom: 14%;
   right: 14%;
