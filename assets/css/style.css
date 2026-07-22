@@ -902,6 +902,78 @@ section p {
   margin-top: 1.5rem;
 }
 
+.offer-summary {
+  background: rgba(18, 10, 38, 0.95);
+  border: 1px solid rgba(122, 69, 255, 0.18);
+  border-radius: var(--radius);
+  padding: 2rem;
+  box-shadow: var(--shadow);
+  display: grid;
+  gap: 1.5rem;
+}
+
+.offer-summary-title {
+  margin: 0;
+  color: var(--text-muted);
+  line-height: 1.6;
+  font-size: 1rem;
+  max-width: 80rem;
+}
+
+.offer-scope-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.offer-scope-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.35rem;
+  display: grid;
+  gap: 0.9rem;
+}
+
+.offer-scope-card h4 {
+  margin: 0;
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.offer-scope-card ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: var(--text-muted);
+  display: grid;
+  gap: 0.55rem;
+}
+
+.offer-scope-card li {
+  position: relative;
+  padding-left: 1.3rem;
+}
+
+.offer-scope-card li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: var(--violet);
+}
+
+.offer-summary-note {
+  margin: 0;
+  color: var(--text-muted);
+  line-height: 1.7;
+}
+
+@media (max-width: 900px) {
+  .offer-scope-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .offer-card {
   background: var(--card);
   border: 1px solid var(--border);
